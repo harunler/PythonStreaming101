@@ -3,3 +3,5 @@ Exercise collection for learning python streaming
 
 1. OpensenseMap: show temperature sensor information (looped) - OpensenseMapTemperatureLoop.py
 2. OpensenseMap: show nearest box - OpensenseMapNearestStations.py
+  - Homi are the coords of the homeoffice
+  - please play with filter, i can not see my nearest box yet (4 Km away)
