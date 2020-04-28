@@ -1,5 +1,5 @@
 # PythonStreaming101
-Exercise collection for learning python streaming
+Exercise collection for learning python streaming (Python 3.7.0)
 
 1. OpensenseMap: show temperature sensor information (looped) - OpensenseMapTemperatureLoop.py
 2. OpensenseMap: show nearest box - OpensenseMapNearestStations.py
