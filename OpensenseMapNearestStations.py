@@ -2,7 +2,6 @@ import asyncio
 import aiohttp
 import json
 import datetime
-from datetime import timedelta
 from math import acos, cos, sin
 
 # Homi
