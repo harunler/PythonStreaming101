@@ -7,5 +7,5 @@ Exercise collection for learning python streaming (Python 3.7.0)
     - please play with filter, i can't see my nearest box yet (4 Km away)
 3. OpenBeerDB: import and consume open beer data
     - OpenBeerDB.py: data import (csv/zip download), local db (sqlite3), dataframes (pandas)
-    - OpenBeerPresenter.py: simple query input, data analyse (pandas, mathplotlib)
+    - OpenBeerPresenter.py: simple query input, data analyse (pandas, matplotlib)
 
